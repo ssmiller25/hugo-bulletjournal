@@ -1,6 +1,8 @@
-# Journal
+# Bullet Journal
 
-_Journal_ is a minimalist theme for [Hugo](http://gohugo.io).
+_BulletJournal_ is a minimalist theme centered for Bullet Journaling electronically.
+
+Based on [Journal](https://github.com/dashdashzako/hugo-journal) for [Hugo](http://gohugo.io).
 
 It focuses on improving reading experience with high contrast colors and no fancy effect.
 
